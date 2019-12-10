@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Simple 1/2 Player Tic Tac Toe game on the terminal.
+Simple Tic Tac Toe game on the terminal.
